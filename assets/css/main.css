@@ -1635,6 +1635,7 @@ input, select, textarea {
 		.image.fit {
 			display: block;
 			width: 100%;
+			padding: 10px;
 		}
 
 		.image.featured {
@@ -2110,7 +2111,7 @@ input, select, textarea {
 	}
 
 	#top {
-		padding: 10em 0 10em 0;
+		padding: 5em 0 10em 0;
 		text-align: left;
 	}
 
@@ -2213,7 +2214,7 @@ input, select, textarea {
 		/* Articles */
 
 			#top {
-				padding: 8em 0;
+				padding: 5em 0 8em 0;
 			}
 
 				#top .image {
@@ -2286,13 +2287,6 @@ input, select, textarea {
 			hr {
 				margin: 1.5em 0 2em 0;
 			}
-		
-			#top .image{
-				width: 15em;
-				height: 10em;
-				margin-bottom: 0;
-				margin: 0 auto 5em auto; 
-			} 
 
 		/* Section/Article */
 

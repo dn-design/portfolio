@@ -2286,6 +2286,13 @@ input, select, textarea {
 			hr {
 				margin: 1.5em 0 2em 0;
 			}
+		
+			#top .image{
+				width: 15em;
+				height: 10em;
+				margin-bottom: 0;
+				margin: 0 auto 5em auto; 
+			} 
 
 		/* Section/Article */
 
